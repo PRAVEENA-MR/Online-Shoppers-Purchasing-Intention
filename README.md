@@ -39,6 +39,37 @@ The dataset contains session-level information for online shopping, including:
 - Data was split into training and testing sets (80/20) using `train_test_split`
 - Stratified split used to maintain class balance in the target variable
 
+###  ✅ 6. Model Training
+Implemented and tuned the following machine learning models:
+
+* Logistic Regression
+
+* Decision Tree
+
+* K-Nearest Neighbors (KNN)
+
+* Random Forest
+
+* Gradient Boosting
+
+* Naive Bayes
+
+* Support Vector Machine (SVM)
+
+## 📊 Evaluation Metrics
+Used the following metrics to assess model performance:
+
+* Accuracy
+
+* Confusion Matrix
+
+ * Classification Report
+
+## 🔍 Feature Importance Analysis
+Identified top predictors for tree-based models using feature_importances_.
+
+## ⚙️ Hyperparameter Tuning
+Optimized parameters using GridSearchCV to improve accuracy and generalization.
 
 
 
