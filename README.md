@@ -71,6 +71,3 @@ To develop a predictive machine learning model that determines whether a custome
 - **Python**  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn  
 
----
-
-## 📂 Project Structure
